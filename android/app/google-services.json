@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137862430139",
+    "project_id": "patika-rn",
+    "storage_bucket": "patika-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137862430139:android:24e6c4e01a0952951f589e",
+        "android_client_info": {
+          "package_name": "com.codetalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137862430139-vv1skj0lcnrfo71a9jkfhjrk29ls6c99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLX4rfTa4xUdrkBZ2C23j9VibM-pT3RWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137862430139-vv1skj0lcnrfo71a9jkfhjrk29ls6c99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
